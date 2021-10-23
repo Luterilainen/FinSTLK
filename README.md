@@ -14,7 +14,8 @@ bash build_sword.sh
 ```
 
 Valmiiksi käännetty Sword-moduuli löytyy 
-[täältä](https://drive.google.com/open?id=1r87xr-g04WxtroAdiI4kZQ_QbIdF9J4Y)
+[Crosswiren repositoriosta](http://crosswire.org/sword/modules/ModInfo.jsp?modName=FinSTLK2017)
+
 
 
 Julkaisuprosessi Crosswiren repositorioon on meneillään.
