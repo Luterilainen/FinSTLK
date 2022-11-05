@@ -17,8 +17,5 @@ Valmiiksi käännetty Sword-moduuli löytyy
 [Crosswiren repositoriosta](http://crosswire.org/sword/modules/ModInfo.jsp?modName=FinSTLK2017)
 
 
-
-Julkaisuprosessi Crosswiren repositorioon on meneillään.
-
 Tekstien lisenssi: CC BY-NC-ND 4.0, 
 ks. https://creativecommons.org/licenses/by-nc-nd/4.0/
